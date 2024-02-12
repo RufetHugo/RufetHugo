@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">I am a Front end developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rufethugo&show_icons=true&locale=en" alt="rufethugo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufethugo&" alt="rufethugo" /></p>
+
